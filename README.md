@@ -37,6 +37,6 @@
 
  ## OUTPUT
  
- 
+ ![output](exp1.2.png)
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
